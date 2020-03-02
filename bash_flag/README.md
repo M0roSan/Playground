@@ -1,6 +1,7 @@
 # bash with flag
 
 ## Example 
+```
 user@comp:bash_flag (master) $ ./bash_flag.sh --help  
 ==================================  
 * bash script to accept flags     *  
@@ -17,3 +18,4 @@ user@comp:bash_flag (master) $ ./bash_flag.sh --bar
 ./bash_flag.sh: option '--bar' requires an argument  
 user@comp:bash_flag (master) $ ./bash_flag.sh --bar hello  
 bar is called with argument hello  
+```
